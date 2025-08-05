@@ -3,7 +3,7 @@ Analyzed a healthcare dataset focused on patients to uncover insights that impro
 # Dataset Used
 - <a href="https://github.com/09Nangs/Healthcare-project-Data-Analysis-Dashboard/blob/a25c92a5ec18f23794fa4d900289349fe0ccb096/Health%20Care%20Project.xlsx">Dataset</a>
 
-  ## Questions (KPIs)
+## Questions (KPIs)
 What is the frequency of each medical condition?
 What is the gender distribution across different illnesses?
 How are most patients admitted?
