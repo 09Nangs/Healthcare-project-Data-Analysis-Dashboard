@@ -19,5 +19,5 @@ This project uncovered key billing and care trends among patients across various
 Some hospitals consistently billed higher for similar conditions, suggesting opportunities for standardizing treatment costs
 By analyzing age groups, test results, and admission types, the project reveals critical patterns that can guide better resource allocation, patient education, and care planning to reduce unnecessary costs while improving patient outcomes
 
-##Final Conclusion
+## Final Conclusion
 Through data exploration using Spreadsheets, SQL, and Power BI, this project demonstrated the power of healthcare analytics in identifying cost drivers and care inefficiencies. By focusing on cancer patients, a group often subject to high and variable medical costs, the project demonstrates how hospitals and policymakers can utilize data to promote transparency, optimize billing practices, and improve care quality. With better data-driven insights, we can move closer to a healthcare system that is not just reactive but proactive, patient-centered, and cost-effective.
