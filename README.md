@@ -14,6 +14,10 @@ Analyzed a healthcare dataset focused on patients to uncover insights that impro
 
 -Dashboard interaction <a href="https://github.com/09Nangs/Healthcare-project-Data-Analysis-Dashboard/blob/a25c92a5ec18f23794fa4d900289349fe0ccb096/Screenshot%20-%20Github.PNG">View Dashboard<a/>
 
+## Dashboard
+<img width="1072" height="508" alt="Screenshot - Github" src="https://github.com/user-attachments/assets/3014f9a9-9d90-44b3-918c-ae7087a388ab" />
+
+
 ## Project insight
 This project uncovered key billing and care trends among patients across various hospitals
 Some hospitals consistently billed higher for similar conditions, suggesting opportunities for standardizing treatment costs
