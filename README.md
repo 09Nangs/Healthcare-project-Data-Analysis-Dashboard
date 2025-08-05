@@ -1,2 +1,1 @@
-# Healthcare-project-Data-Analysis-Dashboard
-This project analyzes a healthcare dataset with a focus on , aiming to improve outcomes and reduce unnecessary medical costs. Using Spreadsheets, SQL, and Power BI, I explored patient demographics, admission types, billing amounts, test results, and hospital data to uncover insights that can drive smarter decision-making in healthcare systems.
+Analyzed a healthcare dataset focused on patients to uncover insights that improve outcomes and reduce medical costs. Tools used include Spreadsheets, SQL, and Power BI to explore demographics, billing, admissions, and test results for better healthcare decision-making
